@@ -10,12 +10,7 @@ This repository organizes various projects focused on fundamental algorithms in 
 - [Extended GCD Algorithm](https://github.com/moosesue/extended_gcd)  
   Extended Euclidean Algorithm for Bézout coefficients and modular inverses.
 
-- [Modular Inverses (Coming Soon)](https://github.com/moosesue/modular-inverse)  
-  Finding modular inverses using the Extended GCD.
+- [Modular Inverses](https://github.com/moosesue/modular-inverses)  
+  Finding modular inverses using the Extended GCD and implementing in a single character RSA demo.
 
-## Future Projects
 
-- Modular inverses
-- RSA
-- Chinese Remainder Theorem
-- Fermat's Little Theorem 
