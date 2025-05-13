@@ -13,4 +13,9 @@ This repository organizes various projects focused on fundamental algorithms in 
 - [Modular Inverses](https://github.com/moosesue/modular-inverses)  
   Finding modular inverses using the Extended GCD and implementing in a single character RSA demo.
 
+- [RSA Attacks using CRT](https://github.com/moosesue/RSA-Attacks-using-CRT)  
+  Using the Chinese Remainder Theorem to attack RSA and to optimise decryption.
 
+
+
+  
